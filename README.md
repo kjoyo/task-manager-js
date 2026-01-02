@@ -14,6 +14,8 @@ This project was developed following an iterative workflow inspired by Scrum:
 - Create tasks
 - Validate empty input
 - Mark tasks as completed
+  
+Sprint 1 completed successfully with all planned features delivered.
 
 ## Tech stack
 - HTML
